@@ -1,0 +1,12 @@
+C:\Users\JMRR\AppData\Local\Temporary Projects\BuscadorWeb\bin\Debug\BuscadorWeb.exe.config
+C:\Users\JMRR\AppData\Local\Temporary Projects\BuscadorWeb\bin\Debug\BuscadorWeb.exe
+C:\Users\JMRR\AppData\Local\Temporary Projects\BuscadorWeb\bin\Debug\BuscadorWeb.pdb
+C:\Users\JMRR\AppData\Local\Temporary Projects\BuscadorWeb\bin\Debug\BuscadorWeb.xml
+C:\Users\JMRR\AppData\Local\Temporary Projects\BuscadorWeb\obj\Debug\BuscadorWeb.vbprojResolveAssemblyReference.cache
+C:\Users\JMRR\AppData\Local\Temporary Projects\BuscadorWeb\obj\Debug\BuscadorWeb.Form1.resources
+C:\Users\JMRR\AppData\Local\Temporary Projects\BuscadorWeb\obj\Debug\BuscadorWeb.Resources.resources
+C:\Users\JMRR\AppData\Local\Temporary Projects\BuscadorWeb\obj\Debug\BuscadorWeb.vbproj.GenerateResource.Cache
+C:\Users\JMRR\AppData\Local\Temporary Projects\BuscadorWeb\obj\Debug\BuscadorWeb.vbproj.CoreCompileInputs.cache
+C:\Users\JMRR\AppData\Local\Temporary Projects\BuscadorWeb\obj\Debug\BuscadorWeb.exe
+C:\Users\JMRR\AppData\Local\Temporary Projects\BuscadorWeb\obj\Debug\BuscadorWeb.xml
+C:\Users\JMRR\AppData\Local\Temporary Projects\BuscadorWeb\obj\Debug\BuscadorWeb.pdb
